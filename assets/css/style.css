@@ -1,0 +1,72 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #117a32;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/*cuadro rgb con bordes redondos*/
+.pagina{
+    background: rgba(255, 255, 255, 0.57);
+    margin: 2%;
+    padding: 2%;
+    border-radius: 1%;
+}
+.pagina2{
+    background: rgba(255, 255, 255, 0.57);
+    margin: 18px;
+    padding: 12px;
+    border-radius: 1%;
+}
+.logotipo{
+    width: 45px;
+}
+.iconos-redes{
+    width: 20px;
+    margin: 10px 5px;
+}
+.imagenes-texto{
+    width: 245px;
+    height: 195px;
+}
+.menumargin{
+    justify-content: center;
+    display: flex;
+    background-color: rgba(78, 201, 57, 0.56);
+    border-radius:1%;
+}
+.footer {
+    background-color: rgba(26, 45, 26, 0.8);
+    padding: 20px;
+    text-align: center;
+}
+.footer-logo {
+    width: 100px;
+}
+.footer-links a {
+    color: #666;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.section-footer{
+    margin-top: 1em;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(41, 176, 18, 0.76);
+}
+.contendor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.txt{
+    margin-right: 50px;
+}
+.imagen{
+    width: 350px;
+    height: 250px;
+}
+
